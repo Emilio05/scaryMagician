@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 017dca6c588de37459759ff8a9f890db
+timeCreated: 1540613223
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_0
+    21300002: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_1
+    21300004: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_2
+    21300006: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_3
+    21300008: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_4
+    21300010: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_5
+    21300012: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_6
+    21300014: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_7
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 416
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 384
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 347
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 349
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 353
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 348
+        width: 119
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 311
+        width: 159
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-water-trap-splash-animation-game-cartoon-vector-illustration-115820122_7
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 309
+        width: 163
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

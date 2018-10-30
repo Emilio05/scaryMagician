@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: 25ab2d7f32cb4174fb4b64cbdd2fb889
+timeCreated: 1540604044
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlackSkull_0
+    21300002: BlackSkull_1
+    21300004: BlackSkull_2
+    21300006: BlackSkull_3
+    21300008: BlackSkull_4
+    21300010: BlackSkull_5
+    21300012: BlackSkull_6
+    21300014: BlackSkull_7
+    21300016: BlackSkull_8
+    21300018: BlackSkull_9
+    21300020: BlackSkull_10
+    21300022: BlackSkull_11
+    21300024: BlackSkull_12
+    21300026: BlackSkull_13
+    21300028: BlackSkull_14
+    21300030: BlackSkull_15
+    21300032: BlackSkull_16
+    21300034: BlackSkull_17
+    21300036: BlackSkull_18
+    21300038: BlackSkull_19
+    21300040: BlackSkull_20
+    21300042: BlackSkull_21
+    21300044: BlackSkull_22
+    21300046: BlackSkull_23
+    21300048: BlackSkull_24
+    21300050: BlackSkull_25
+    21300052: BlackSkull_26
+    21300054: BlackSkull_27
+    21300056: BlackSkull_28
+    21300058: BlackSkull_29
+    21300060: BlackSkull_30
+    21300062: BlackSkull_31
+    21300064: BlackSkull_32
+    21300066: BlackSkull_33
+    21300068: BlackSkull_34
+    21300070: BlackSkull_35
+    21300072: BlackSkull_36
+    21300074: BlackSkull_37
+    21300076: BlackSkull_38
+    21300078: BlackSkull_39
+    21300080: BlackSkull_40
+    21300082: BlackSkull_41
+    21300084: BlackSkull_42
+    21300086: BlackSkull_43
+    21300088: BlackSkull_44
+    21300090: BlackSkull_45
+    21300092: BlackSkull_46
+    21300094: BlackSkull_47
+    21300096: BlackSkull_48
+    21300098: BlackSkull_49
+    21300100: BlackSkull_50
+    21300102: BlackSkull_51
+    21300104: BlackSkull_52
+    21300106: BlackSkull_53
+    21300108: BlackSkull_54
+    21300110: BlackSkull_55
+    21300112: BlackSkull_56
+    21300114: BlackSkull_57
+    21300116: BlackSkull_58
+    21300118: BlackSkull_59
+    21300120: BlackSkull_60
+    21300122: BlackSkull_61
+    21300124: BlackSkull_62
+    21300126: BlackSkull_63
+    21300128: BlackSkull_64
+    21300130: BlackSkull_65
+    21300132: BlackSkull_66
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackSkull_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 408
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 403
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 403
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 401
+        width: 78
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 401
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 401
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_6
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 401
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 401
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_8
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 401
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 298
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 298
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 298
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 298
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 298
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 298
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 298
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 197
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 197
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 197
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 197
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 197
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 98
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 98
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 98
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 98
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 98
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 98
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_27
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 99
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_29
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 9
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 60
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 60
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_32
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 60
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 60
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 16
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_37
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 48
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 46
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_39
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 48
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_40
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 47
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 9
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_42
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 30
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_43
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 30
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 34
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_45
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 34
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_46
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 36
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_47
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 36
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_48
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 36
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_49
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 8
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_50
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 9
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 22
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_52
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 24
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_53
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 24
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_54
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 24
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_55
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 24
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_58
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 16
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_60
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 10
+        width: 126
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_61
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_63
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_65
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackSkull_66
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
